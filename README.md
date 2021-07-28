@@ -1,4 +1,4 @@
-# Larrneire Movies
+# Movies
 
 iOS / Android Movie Discovery App built with RN
 
